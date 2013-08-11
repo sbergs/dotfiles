@@ -1,0 +1,87 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+	"draw_indent_guides": true,
+	"draw_minimap_border": false,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.tmLanguage.cache",
+		"*.tmPreferences.cache",
+		"*.psd",
+		"*.psb",
+		"*.png",
+		"*.gif",
+		"*.jpg",
+		"*.jpeg",
+		"Gemfile.lock",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.ico",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.pdf",
+		"*.class",
+		"*.mov",
+		"*.mp3",
+		"*.mp4",
+		"*.swf",
+		"*.xls",
+		"*.bak",
+		"*.backup",
+		"*.acorn",
+		"*.license",
+		"*.zargo*"
+	],
+	"folder_exclude_patterns":
+	[
+		".bundle",
+		".git",
+		".sass-cache",
+		"*.esproj",
+		"*.tiles",
+		"*.svn"
+	],
+	"font_face": "M+ 1mn",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 16,
+	"gutter": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"mouse_wheel_switches_tabs": false,
+	"rulers":
+	[
+		80
+	],
+	"tab_completion": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"word_wrap": true,
+	"wrap_width": 140
+}
